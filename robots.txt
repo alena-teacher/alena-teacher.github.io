@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /services/404.html
+
+Sitemap: https://alena-teacher.github.io/services/sitemap.xml
