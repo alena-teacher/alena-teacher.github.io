@@ -16,13 +16,14 @@
 ## Публикация
 
 1. Создать на GitHub пустой публичный репозиторий `alena-teacher.github.io`.
-2. В настройках **Settings → Pages** выбрать **Deploy from a branch**,
-   ветку `main` и папку `/(root)`.
-3. Из этой папки выполнить:
+2. Из этой папки выполнить:
 
 ```bash
 git push -u origin main
 ```
+
+3. В настройках **Settings → Pages** выбрать **Deploy from a branch**,
+   ветку `main` и папку `/(root)`.
 
 После публикации проверить:
 
